@@ -1,0 +1,60 @@
+th{
+    white-space: nowrap;
+    vertical-align: baseline;
+    text-align: left;
+}
+
+td{
+	white-space: nowrap;
+    vertical-align: baseline;
+}
+
+.infobox {
+    border: 1px solid #aaa;
+    border-spacing: 5px;
+    background-color: #f9f9f9;
+    margin: 5px auto 5px auto;
+    min-width: 294px;
+    color: black;
+    clear: right;
+    text-align: left;
+    line-height: 1.25em;
+    word-wrap: break-word;
+    width: 90%;
+}
+
+.title-player{
+	margin: 15px;
+}
+
+.thumb-player {
+    width: 200px;
+    height: 200px;
+}
+
+.right{
+	float: none;
+	text-align: right;
+}
+
+.name-player{
+	font-size: 32px;
+    color: #063470;
+    font-weight: bold;
+}
+
+.title-infor{
+	background-color: #b0c4de; 
+	line-height: 1.5em;
+	text-align: center;
+}
+
+.text-left{
+	text-align: left;
+	padding: 0.1em 0;
+}
+
+.text-nomal{
+	font-weight: normal;
+}
+
