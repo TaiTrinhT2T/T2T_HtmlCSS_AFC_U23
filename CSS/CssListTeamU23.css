@@ -58,7 +58,6 @@
 .team .name-team{
 	font-size: 16px;
     font-weight: bold;
-    color: #333;
 }
 
 .infor-center{
@@ -88,3 +87,6 @@
 	margin-left: 28%;
 }
 
+a:hover{
+    color: red;
+}
